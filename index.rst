@@ -6,23 +6,20 @@
 Welcome to ourWiki's documentation!
 ===================================
 
-Contents:
+Recent Topics:
 
 .. toctree::
+   :glob:
    :maxdepth: 2
 
-   rst_output.rst
-   create_wiki.rst
-   mongodb.rst
-   getting_started.rst
-   iframe.rst
+   wiki/*/*
+
+   table_of_contents
 
 
-.. image:: _static/basic_screenshot.png
-
-Indices and tables
+Quick Links
 ==================
-
+* :ref:`create_wiki`
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
