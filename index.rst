@@ -13,7 +13,7 @@ Recent Topics:
    :maxdepth: 2
 
    wiki/*/*
-
+   create_wiki
    table_of_contents
 
 
