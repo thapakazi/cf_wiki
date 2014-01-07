@@ -1,10 +1,5 @@
-.. ourWiki documentation master file, created by
-   sphinx-quickstart on Fri Dec 27 01:01:46 2013.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-Welcome to ourWiki's documentation!
-===================================
+Welcome to cf-wiki
+==================
 
 Recent Topics:
 
@@ -13,13 +8,16 @@ Recent Topics:
    :maxdepth: 2
 
    wiki/*/*
-   create_wiki
-   table_of_contents
-
 
 Quick Links
-==================
-* :ref:`create_wiki`
+"""""""""""
+.. hlist::
+
+   * `Create New Wiki <create_wiki.html>`_
+   * `Wikifiy Me <table_of_contents.html>`_
+
+Extra
+=====
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
