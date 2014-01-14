@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3.3
 # -*- coding: utf-8 -*-
 #
 # ourWiki documentation build configuration file, created by
